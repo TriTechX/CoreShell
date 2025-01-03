@@ -1,4 +1,7 @@
 # CoreShell, A Versatile and Simple Unix-Based CLI
+
+## _It's like CoreOS but less jank_
+
 The aim of this project is to make a more improved version of CoreOS that uses more versatile methods of programming allowing for more flexability and productivity during its use. 
 It will be more alike the Linux shell than CoreOS, but more simple.
 The OS aims to support piping, multi-argument commands and much more.\n
